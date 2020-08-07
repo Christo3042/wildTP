@@ -1,0 +1,11 @@
+name: WildRegion
+version: 1.0-SNAPSHOT
+main: me.christo.wild.Main
+api-version: 1.13
+authors: [Christo]
+description: Teleports you to a random location when you enter a region!
+website: http://www.devchristo.com/
+commands:
+  rt:
+    description: teleports the player to a random locaton
+    aliases: [wild]
